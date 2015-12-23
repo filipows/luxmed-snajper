@@ -1,0 +1,20 @@
+{
+  "name": "luxmed-snajper",
+  "version": "0.0.1",
+  "description": "Automatic reservation in a luxmed health center.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "luxmed",
+    "snajper"
+  ],
+  "author": "filipows",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "lodash": "^3.10.1",
+    "node-horseman": "^2.8.2"
+  }
+}
